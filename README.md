@@ -1,4 +1,4 @@
-# millangkhorasan.onrender.com
+# millangkhorasan.github.io
 
 > [!TIP]
-> **[Click here to visit the live site](https://millangkhorasan.onrender.com/)**
+> **[Click here to visit the live site](https://millangkhorasan.github.io)**

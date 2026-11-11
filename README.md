@@ -4,7 +4,7 @@ Single-page, tri-lingual (EN / FA / AR) responsive product showcase.
 
 ## Live Demo
 
-https://fouad-salehi.github.io/
+https://millangkhorasan.github.io/
 
 ## Structure
 

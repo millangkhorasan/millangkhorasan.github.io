@@ -8,7 +8,7 @@ const translations = {
     nav_heat: "عملیات حرارتی",
     nav_qc: "کنترل کیفیت",
     nav_order: "سفارش",
-    hero_eyebrow: "کاتالوگ تولید میل‌لنگ",
+    hero_eyebrow: "کاتالوگ تولید میل لنگ",
     hero_title: "میل‌لنگ خراسان",
     hero_subtitle: "تولید تخصصی میل‌لنگ تراکتورهای فرگوسن ۱۶۵، ۲۴۰، ۲۸۵، ۳۹۹ و ۴۷۵ به روش ریخته‌گری",
     badge1: "فولاد ۴۳۴۰",
@@ -26,6 +26,10 @@ const translations = {
     stat_models: "مدل فرگوسن",
     stat_steel: "فولاد پایه",
     stat_core: "سختی مغزی",
+    stat_num_classes: "۳",
+    stat_num_models: "۵",
+    stat_num_steel: "۴۳۴۰",
+    stat_num_core: "HRC ۳۶",
     types_title: "انواع میل لنگ و رده های تولیدی",
     types_intro: "میل لنگ های این خط تولید با روش ریخته گری ساخته می شوند؛ روشی که با پرکردن قالب از فلز مذاب و سپس انجماد آن، شکل نهایی قطعه را می سازد و برای تولید انبوه قطعاتی مانند میل لنگ تراکتور پیوستگی تولید بالایی دارد.",
     type1_title: "میل لنگ ریخته گری شده",
@@ -48,6 +52,12 @@ const translations = {
     steel3: "وضعیت توصیه‌شده برای ماشین‌کاری",
     process_title: "فرآیند تولید مرحله به مرحله",
     process_intro: "توالی تولید در این شرکت بر پایه ریخته گری و سپس «عملیات حرارتی پیش از ماشین کاری نهایی» بنا شده است، زیرا عملیات حرارتی می تواند شکل قطعه را تا حدود ۱٫۵ میلی متر (۰٫۰۶ اینچ) جابه جا کند.",
+    step_num1: "۱",
+    step_num2: "۲",
+    step_num3: "۳",
+    step_num4: "۴",
+    step_num5: "۵",
+    step_num6: "۶",
     step1_t: "ذوب و آماده سازی مذاب",
     step1_d: "فولاد آلیاژی در کوره ذوب و ترکیب شیمیایی آن پیش از ریختن تنظیم و کنترل می شود.",
     step2_t: "قالب گیری و ریخته گری",
@@ -128,6 +138,10 @@ const translations = {
     stat_models: "Ferguson Models",
     stat_steel: "Base Steel",
     stat_core: "Core Hardness",
+    stat_num_classes: "3",
+    stat_num_models: "5",
+    stat_num_steel: "4340",
+    stat_num_core: "HRC 36",
     types_title: "Types of Crankshafts and Production Classes",
     types_intro: "The crankshafts of this production line are made by casting — a method that forms the final part by filling a mold with molten metal and allowing it to solidify, offering high production continuity for the mass production of components such as tractor crankshafts.",
     type1_title: "Cast Crankshafts",
@@ -150,6 +164,12 @@ const translations = {
     steel3: "Recommended condition for machining",
     process_title: "Step-by-Step Production Process",
     process_intro: "The production sequence at this company is based on casting followed by heat treatment before final machining, because heat treatment can shift the part geometry by as much as 1.5 mm (0.06 in).",
+    step_num1: "1",
+    step_num2: "2",
+    step_num3: "3",
+    step_num4: "4",
+    step_num5: "5",
+    step_num6: "6",
     step1_t: "Melting and Melt Preparation",
     step1_d: "The alloy steel is melted in a furnace, and its chemical composition is adjusted and controlled before pouring.",
     step2_t: "Molding and Casting",
@@ -230,6 +250,10 @@ const translations = {
     stat_models: "موديلات فيرغسون",
     stat_steel: "الفولاذ الأساسي",
     stat_core: "صلادة القلب",
+    stat_num_classes: "٣",
+    stat_num_models: "٥",
+    stat_num_steel: "٤٣٤٠",
+    stat_num_core: "HRC ٣٦",
     types_title: "أنواع عمود المرفق وفئات الإنتاج",
     types_intro: "تُصنع عمود المرفق في خط الإنتاج هذا بطريقة السباكة، وهي طريقة تُشكل القطعة النهائية بصب المعدن المصهور في القالب ثم تصلبه، وتتسم بكفاءة عالية في الإنتاج المتواصل لإنتاج القطع بكميات كبيرة مثل عمود مرفق الجرارات.",
     type1_title: "عمود المرفق المصبوب",
@@ -252,6 +276,12 @@ const translations = {
     steel3: "الحالة الموصى بها للتشغيل",
     process_title: "عملية الإنتاج خطوة بخطوة",
     process_intro: "يقوم تسلسل الإنتاج في هذه الشركة على السباكة ثم المعالجة الحرارية قبل التشغيل النهائي، لأن المعالجة الحرارية قد تغير شكل القطعة بنحو ١٫٥ مليمتر (٠٫٠٦ بوصة).",
+    step_num1: "١",
+    step_num2: "٢",
+    step_num3: "٣",
+    step_num4: "٤",
+    step_num5: "٥",
+    step_num6: "٦",
     step1_t: "الصهر وتحضير المصهور",
     step1_d: "يُصهر الفولاذ السبائكي في الفرن، ويُضبط تركيبه الكيميائي ويراقب قبل الصب.",
     step2_t: "القولبة والسباكة",
@@ -307,6 +337,12 @@ const translations = {
   }
 };
 
+const galleryAlts = {
+  fa: ["میل‌لنگ ۱", "میل‌لنگ ۲", "میل‌لنگ ۳", "میل‌لنگ ۴", "میل‌لنگ ۵", "میل‌لنگ ۶", "میل‌لنگ ۷"],
+  en: ["Crankshaft 1", "Crankshaft 2", "Crankshaft 3", "Crankshaft 4", "Crankshaft 5", "Crankshaft 6", "Crankshaft 7"],
+  ar: ["عمود المرفق ١", "عمود المرفق ٢", "عمود المرفق ٣", "عمود المرفق ٤", "عمود المرفق ٥", "عمود المرفق ٦", "عمود المرفق ٧"]
+};
+
 const langButtons = document.querySelectorAll('.lang-btn');
 const htmlEl = document.documentElement;
 const bodyEl = document.body;
@@ -328,11 +364,32 @@ function setLanguage(lang) {
     }
   });
 
+  document.querySelectorAll('.gallery-item img').forEach((img, i) => {
+    if (galleryAlts[lang] && galleryAlts[lang][i]) {
+      img.alt = galleryAlts[lang][i];
+    }
+  });
+
   langButtons.forEach(btn => btn.classList.toggle('active', btn.dataset.lang === lang));
 }
 
 langButtons.forEach(btn => btn.addEventListener('click', () => setLanguage(btn.dataset.lang)));
 setLanguage(currentLang);
+
+const themeToggle = document.getElementById('themeToggle');
+let currentTheme = 'dark';
+
+function applyTheme(theme) {
+  currentTheme = theme;
+  document.body.setAttribute('data-theme', theme);
+  localStorage.setItem('theme', theme);
+}
+
+themeToggle.addEventListener('click', () => {
+  applyTheme(currentTheme === 'dark' ? 'light' : 'dark');
+});
+
+applyTheme(currentTheme);
 
 const menuToggle = document.getElementById('menuToggle');
 const nav = document.getElementById('nav');
